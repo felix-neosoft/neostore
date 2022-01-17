@@ -1,4 +1,4 @@
-# Invoicing Application
+# NeoSTORE
 Ecommerce React Application developed for Furniture Website.
 
 ## Usage
