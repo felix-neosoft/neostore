@@ -1,0 +1,42 @@
+
+/* --------------Profile CSS------------------ */
+
+.profile-img{
+    width: 250px;
+    border-radius: 150px;
+    background-color: red;
+    margin-top: 30px;
+}
+
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    cursor: pointer;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 170px;
+}
+
+.birth-date-picker{
+    width:30%;
+    background:none;
+    border: none;
+    font-size: 15px;
+    color: rgb(192, 192, 192);
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+/* ------------Product Info------------------- */
+.zoom {
+    padding: 50px;
+    transition: transform .2s;
+    margin: 30px auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); 
+  }
